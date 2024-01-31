@@ -1,4 +1,4 @@
 # my-firstgit-repo
-this is my portfolio website
+practice useing github
 <br>
 author : Habiba akbar
